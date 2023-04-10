@@ -1,6 +1,6 @@
-# RF Diffusion
+# RFdiffusion Streamlit
 
-RF Diffusion Streamlit App: Interactive Interface for Protein Design
+RFdiffusion Streamlit App: Interactive Interface for Protein Design
 
 The RFdiffusion Streamlit App is an interactive web-based application that allows users to explore various protein design tasks using the RFdiffusion tool. Through a user-friendly interface, the app provides options for three key tasks: Protein-Protein Interaction (PPI) Binder Design, Symmetric Oligomer Design, and Symmetric Motif Scaffolding. Users can select the desired task, specify relevant parameters, and initiate the generation of protein designs.
 
