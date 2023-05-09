@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.title("RFdiffusion 3")
+st.title("RFdiffusion 4")
 st.write("Welcome to the RFdiffusion Streamlit App! Explore the functionalities of RFdiffusion for protein design tasks.")
 
 task = st.sidebar.selectbox("Select a Task", ["PPI Binder Design", "Symmetric Oligomer Design", "Symmetric Motif Scaffolding"])
